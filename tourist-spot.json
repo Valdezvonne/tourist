@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://github.com/Valdezvonne/tourist/tourist/master/images/PR.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/PR.jpg",
     "price": 150,
     "priceCurrency": "EUR",
     "lat": 48.885312,
