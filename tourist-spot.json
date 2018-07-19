@@ -46,11 +46,11 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "name": "Christ the Redeemer Statue",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/christ-the-redeemer-statue.jpg",
     "priceCurrency": "₱",
-    "price": 135,
-    "lat": 48.827855,
-    "lng": 2.350774
+    "price": 10,
+    "lat": 16.6204,
+    "lng": 120.3190
   }
 ]
