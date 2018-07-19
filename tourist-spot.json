@@ -10,12 +10,12 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
+    "name": "Ma Cho Temple"
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/macho.JPG",
-    "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "priceCurrency": "₱",
+    "price":10,
+    "lat": 16.6212,
+    "lng": 120.3175
   },
   {
     "id": 201,
