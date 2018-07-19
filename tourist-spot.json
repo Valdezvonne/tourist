@@ -3,8 +3,8 @@
     "id": 145,
     "name": "TAnga",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/tangadan.JPG",
-    "price": 164,
     "priceCurrency": "₱",
+    "price": 30.00,
     "lat": 16.6436,
     "lng": 120.4488
   },
