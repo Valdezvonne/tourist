@@ -53,4 +53,13 @@
     "lat": 16.5873,
     "lng": 120.3659
   }
+  {
+    "id": 201,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg?raw=true",
+    "priceCurrency": "₱",
+    "price": 20,
+    "lat": 16.6183,
+    "lng": 120.3632
+  },
 ]
