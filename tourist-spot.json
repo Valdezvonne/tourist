@@ -67,40 +67,49 @@
     "name": "Basilica Minore of Our Lady of Charity",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
     "priceCurrency": "₱",
-    "price": 20,
+    "price": 50,
     "lat": 16.3247,
     "lng": 120.3551
   },
    {
     "id": 22,
-    "name": "Bascil Bridge",
+    "name": "Baluarte Watch Tower",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
     "priceCurrency": "₱",
-    "price": 20,
-    "lat": 16.6183,
-    "lng": 120.3632
+    "price": 60,
+    "lat": 16.8568,
+    "lng": 120.3729
   },
    {
     "id": 23,
-    "name": "Bascil Bridge",
+    "name": "Poro Point Lighthouse",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
     "priceCurrency": "₱",
-    "price": 20,
-    "lat": 16.6183,
-    "lng": 120.3632
+    "price": 50,
+    "lat": 16.6149,
+    "lng": 120.2808
   },
    {
     "id": 24,
-    "name": "Bascil Bridge",
+    "name": "Filipino Chinese Friendship Pagoda",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
     "priceCurrency": "₱",
     "price": 20,
-    "lat": 16.6183,
-    "lng": 120.3632
+    "lat": 16.6142,
+    "lng": 120.3191
   },
    {
     "id": 25,
-    "name": "Bascil Bridge",
+    "name": "Grapes Farm",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
+    "priceCurrency": "₱",
+    "price": 60,
+    "lat": 16.4611,
+    "lng": 120.3339
+  },
+  {
+    "id": 26,
+    "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
     "priceCurrency": "₱",
     "price": 20,
