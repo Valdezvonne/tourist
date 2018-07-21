@@ -61,5 +61,50 @@
     "price": 20,
     "lat": 16.6183,
     "lng": 120.3632
+  },
+   {
+    "id": 21,
+    "name": "Bahay na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
+    "priceCurrency": "₱",
+    "price": 20,
+    "lat": 16.6183,
+    "lng": 120.3632
+  },
+   {
+    "id": 22,
+    "name": "Bascil Bridge",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
+    "priceCurrency": "₱",
+    "price": 20,
+    "lat": 16.6183,
+    "lng": 120.3632
+  },
+   {
+    "id": 23,
+    "name": "Bascil Bridge",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
+    "priceCurrency": "₱",
+    "price": 20,
+    "lat": 16.6183,
+    "lng": 120.3632
+  },
+   {
+    "id": 24,
+    "name": "Bascil Bridge",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
+    "priceCurrency": "₱",
+    "price": 20,
+    "lat": 16.6183,
+    "lng": 120.3632
+  },
+   {
+    "id": 25,
+    "name": "Bascil Bridge",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
+    "priceCurrency": "₱",
+    "price": 20,
+    "lat": 16.6183,
+    "lng": 120.3632
   }
 ]
