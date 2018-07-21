@@ -64,12 +64,12 @@
   },
    {
     "id": 21,
-    "name": "Bahay na Bato",
+    "name": "Basilica Minore of Our Lady of Charity",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
     "priceCurrency": "₱",
     "price": 20,
-    "lat": 16.6183,
-    "lng": 120.3632
+    "lat": 16.3247,
+    "lng": 120.3551
   },
    {
     "id": 22,
