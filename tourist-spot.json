@@ -110,10 +110,10 @@
   {
     "id": 26,
     "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
+    "imageUrl": "",
     "priceCurrency": "₱",
     "price": 20,
-    "lat": 16.5920.9,
-    "lng": 120.2715.7
+    "lat": 16.5920,
+    "lng": 120.2715
   }
 ]
